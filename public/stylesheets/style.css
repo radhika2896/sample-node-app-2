@@ -20,7 +20,7 @@ a {
 
 footer {
   position: fixed;
-  min-height: 102px;
+  min-height: 101px;
   bottom: 0;
   background-image: url("/images/image-bg-footer.svg");
   background-repeat: no-repeat;
